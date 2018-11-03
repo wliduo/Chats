@@ -14,7 +14,7 @@
             "content": "真的吗？",
             "nextXianzhe": ["0002"]
         }, {
-            "content": "我不想说话",
+            "content": "我觉得不高兴啊",
             "nextXianzhe": ["9989"]
         }]
     }, {
@@ -41,7 +41,7 @@
             "content": "问什么都可以吗？",
             "nextXianzhe": ["0006"]
         }, {
-            "content": "我不想说话",
+            "content": "我不想知道什么",
             "nextXianzhe": ["9989"]
         }]
     }, {
@@ -54,9 +54,6 @@
         }, {
             "content": "我还以为是机器人呢",
             "nextXianzhe": ["0005"]
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0005",
@@ -66,19 +63,16 @@
         "responses": [{
             "content": "看起来很有意思啊",
             "nextXianzhe": ["0008"]
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0006",
         "details": [
-            ["话是没错啦...", "不过，反正你也不能输入文字~hhh"]
+            ["话是没错啦...", "不过，反正你也不能输入文字~hhh~"]
         ],
         "responses": [{
             "content": "..."
         }, {
-            "content": "好像是这样，为什么不能输入？",
+            "content": "算你狠",
             "nextXianzhe": ["0007"]
         }, {
             "content": "我不想说话",
@@ -88,31 +82,22 @@
         "id": "0007",
         "details": [
             [
-                "emmm，你要是能输入",
-                "那我不是白做这个网站了"
+                "emmm，你是在夸我么？<(￣︶￣)>"
             ]
         ],
         "responses": [{
             "content": "..."
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0008",
         "details": [
             [
                 "是啊，虽然不是我做的，(/ □ \\)", 
-                "原作者是一个很厉害的人哦", 
-                "我也只能用别人的",
-                "没错小菜鸟就是我了~<(￣︶￣)>"
+                "没错小菜鸟就是本人我了~<(￣︶￣)>"
             ]
         ],
         "responses": [{
             "content": "..."
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0050",
@@ -132,9 +117,6 @@
         "responses": [{
             "content": "...",
             "nextXianzhe": ["0102"]
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0102",
@@ -157,14 +139,12 @@
             ["唔，我是一个IT民工了", "准确地说，就是个码农，钱多话少死得早，问题是钱还不多，难受"]
         ],
         "responses": [{
-            "content": "好吧"
+            "content": "好吧",
+            "nextXianzhe": ["0602"]
         }, {
-            "content": "同情你"
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
-        }],
-        "nextXianzhe": ["0602"]
+            "content": "同情你",
+            "nextXianzhe": ["0602"]
+        }]
     }, {
         "id": "0602",
         "details": [
@@ -198,9 +178,6 @@
         }, {
             "content": "是啊",
             "nextXianzhe": ["0903"]
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0903",
@@ -214,9 +191,6 @@
         ],
         "responses": [{
             "content": "嗯呢"
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "9979",
@@ -229,14 +203,11 @@
         }, {
             "content": "o(*////▽////*)o",
             "nextXianzhe": ["9980"]
-        }, {
-            "content": "我不想说话",
-            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "9980",
         "details": [
-            ["那我们重新开始认识一下吧~hhh", "遇见你很高兴"]
+            ["hhh~那我们重新开始认识一下吧~", "遇见你很高兴"]
         ],
         "responses": [{
             "content": "我也是",
@@ -248,7 +219,7 @@
             "content": "真的吗？",
             "nextXianzhe": ["0002"]
         }, {
-            "content": "我不想说话",
+            "content": "我觉得不高兴啊",
             "nextXianzhe": ["9989"]
         }]
     }, {
@@ -313,7 +284,8 @@
         "id": "1006",
         "brief": "职业",
         "details": [
-            "你究竟靠什么吃饭呢？"
+            "你究竟靠什么吃饭呢？",
+            "你是做什么的呢？"
         ],
         "nextXianzhe": ["0601"]
     }, {

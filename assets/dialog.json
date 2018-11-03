@@ -2,7 +2,7 @@
     "fromXianzhe": [{
         "id": "0000",
         "details": [
-            ["Hi，o(∩_∩)o", "很高兴遇见你"]
+            ["Hi，很高兴遇见你，o(∩_∩)o"]
         ],
         "responses": [{
             "content": "我也是",
@@ -13,6 +13,9 @@
         }, {
             "content": "真的吗？",
             "nextXianzhe": ["0002"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0001",
@@ -37,6 +40,9 @@
         }, {
             "content": "问什么都可以吗？",
             "nextXianzhe": ["0006"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0004",
@@ -48,6 +54,9 @@
         }, {
             "content": "我还以为是机器人呢",
             "nextXianzhe": ["0005"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0005",
@@ -57,6 +66,9 @@
         "responses": [{
             "content": "看起来很有意思啊",
             "nextXianzhe": ["0008"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0006",
@@ -68,6 +80,9 @@
         }, {
             "content": "好像是这样，为什么不能输入？",
             "nextXianzhe": ["0007"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0007",
@@ -79,6 +94,9 @@
         ],
         "responses": [{
             "content": "..."
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0008",
@@ -92,6 +110,9 @@
         ],
         "responses": [{
             "content": "..."
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0050",
@@ -111,6 +132,9 @@
         "responses": [{
             "content": "...",
             "nextXianzhe": ["0102"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0102",
@@ -136,6 +160,9 @@
             "content": "好吧"
         }, {
             "content": "同情你"
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }],
         "nextXianzhe": ["0602"]
     }, {
@@ -144,9 +171,11 @@
             ["没办法", "女怕入错行，男怕嫁错郎", "额，好像说反了，hhh"]
         ]
     }, {
-        "id": "0040",
+        "id": "0801",
         "details": [
-            ["嘿嘿，没关系，你能够在这个网站多停留一秒，我就很开心啦"]
+            ["我的主页吗？额，我想一下",
+            "<a href='https://wang64.cn' target='_blank'>wang64.cn</a>",
+            "这个就是我的主页啦，o^-^o"]
         ]
     }, {
         "id": "0901",
@@ -164,11 +193,14 @@
             ]
         ],
         "responses": [{
-            "content": "~",
+            "content": "也对",
             "nextXianzhe": ["0903"]
         }, {
             "content": "是啊",
             "nextXianzhe": ["0903"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
     }, {
         "id": "0903",
@@ -182,14 +214,62 @@
         ],
         "responses": [{
             "content": "嗯呢"
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
         }]
+    }, {
+        "id": "9979",
+        "details": [
+            ["哇，木马，o(*////▽////*)o"]
+        ],
+        "responses": [{
+            "content": "呕吐",
+            "nextXianzhe": ["9989"]
+        }, {
+            "content": "o(*////▽////*)o",
+            "nextXianzhe": ["9980"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
+        }]
+    }, {
+        "id": "9980",
+        "details": [
+            ["那我们重新开始认识一下吧~hhh", "遇见你很高兴"]
+        ],
+        "responses": [{
+            "content": "我也是",
+            "nextXianzhe": ["0003"]
+        }, {
+            "content": "我很怀疑这点...",
+            "nextXianzhe": ["0001"]
+        }, {
+            "content": "真的吗？",
+            "nextXianzhe": ["0002"]
+        }, {
+            "content": "我不想说话",
+            "nextXianzhe": ["9989"]
+        }]
+    }, {
+        "id": "9989",
+        "details": [
+            ["嘿嘿，没关系", "你能够多停留一秒，我就很开心啦，<(￣︶￣)>"]
+        ]
     }, {
         "id": "9999",
         "details": [
-            ["回复不了喽，主人太懒了，没有设置当前问题的回答..."]
+            ["主人太懒了，没有设置当前问题的回答..."]
         ]
     }],
     "fromUser": [{
+        "id": "1004",
+        "brief": "点赞",
+        "details": [
+            "给你点个赞"
+        ],
+        "nextXianzhe": ["9979"]
+    }, {
         "id": "1000",
         "brief": "爱好",
         "details": [
@@ -221,13 +301,6 @@
             "很好奇啊，你是怎样一个人呢~"
         ],
         "nextXianzhe": ["0301"]
-    }, {
-        "id": "1004",
-        "brief": "设计",
-        "details": [
-            "可以看看你的设计作品吗？"
-        ],
-        "nextXianzhe": ["9999"]
     },  {
         "id": "1005",
         "brief": "摄影",
@@ -253,11 +326,11 @@
         "nextXianzhe": ["9999"]
     }, {
         "id": "1008",
-        "brief": "源码",
+        "brief": "主页",
         "details": [
-            "求源码"
+            "你的主页是什么？"
         ],
-        "nextXianzhe": ["9999"]
+        "nextXianzhe": ["0801"]
     }, {
         "id": "1009",
         "brief": "关于",

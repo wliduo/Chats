@@ -1,6 +1,6 @@
 # Message
 
-> 借鉴:Please visit: http://zhangwenli.com
+> 借鉴:[https://github.com/Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io)
 
 1. 先是不知道怎么运行，发现是gulpfile打包工具，和webpack不一样，看官网就好:[https://www.gulpjs.com.cn/docs/getting-started](https://www.gulpjs.com.cn/docs/getting-started)
 

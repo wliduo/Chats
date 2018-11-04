@@ -124,6 +124,14 @@
             ["一开始下了好多书","结果就看了一本半","现在天天放在床头吃灰，难受"]
         ]
     }, {
+        "id": "0201",
+        "details": [
+            [
+                "emmm，母胎单，了解一下",
+                "<img width='150' height='150' src='https://res.wang64.cn/Image/201811/normal/04025.png'>"
+            ]
+        ]
+    }, {
         "id": "0301",
         "details": [
             [
@@ -131,6 +139,307 @@
                 "从来没有了解过别人眼中的我，我也不知道别人对我的评价是什么样的",
                 "不过我自己认为自己是一个很随和，乐观，性格挺不错的人~hhh",
                 "平时很容易觉得无聊，对很多事情觉得提不起兴趣，但本身又是个兴趣很广泛的人"
+            ]
+        ]
+    }, {
+        "id": "0501",
+        "details": [
+            ["好看的有点多哦，你选一下吧"]
+        ],
+        "responses": [{
+            "content": "黄浦江",
+            "nextXianzhe": ["0502"]
+        }, {
+            "content": "深圳湾",
+            "nextXianzhe": ["0504"]
+        }, {
+            "content": "大南山",
+            "nextXianzhe": ["0505"]
+        }, {
+            "content": "星光桥",
+            "nextXianzhe": ["0506"]
+        }, {
+            "content": "梧桐山",
+            "nextXianzhe": ["0507"]
+        }, {
+            "content": "杨屋外海",
+            "nextXianzhe": ["0508"]
+        }, {
+            "content": "珠江",
+            "nextXianzhe": ["0510"]
+        }, {
+            "content": "荷花展",
+            "nextXianzhe": ["0512"]
+        }, {
+            "content": "Game On",
+            "nextXianzhe": ["0513"]
+        }, {
+            "content": "建筑物",
+            "nextXianzhe": ["0514"]
+        }, {
+            "content": "日常取景",
+            "nextXianzhe": ["0519"]
+        }]
+    }, {
+        "id": "0502",
+        "details": [
+            [
+                "这个是去年实习在上海出差三个月时拍的，去了那好几次选的最好的一张",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20170805_202321.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20170805_202321.jpg'></a>",
+                "还有一张东方明珠近距离的，要不要看下呀"
+            ]
+        ],
+        "responses": [{
+            "content": "当然了",
+            "nextXianzhe": ["0503"]
+        }, {
+            "content": "不想看"
+        }]
+    }, {
+        "id": "0503",
+        "details": [
+            [
+                "就是这张了",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20170805_191142.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20170805_191142.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0504",
+        "details": [
+            [
+                "这是后来回深圳拍的，去了很多次深圳湾，不是每次都有这个好的景色哦",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171021_172112.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171021_172112.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0505",
+        "details": [
+            [
+                "这是去惠州爬大南山拍的，景色真不错",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171217_160531.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171217_160531.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171217_171458.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171217_171458.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0506",
+        "details": [
+            [
+                "这是深圳南山人才公园的星光桥，很不错",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171223_183636.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171223_183636.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0507",
+        "details": [
+            [
+                "这是深圳梧桐山的蝴蝶谷",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180401_133922.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180401_133922.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0508",
+        "details": [
+            [
+                "这个今年公司旅游去的惠州玩",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_142456.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_142456.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_140930.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_140930.jpg'></a>",
+                "还有海景房的视角，要不要看下呀"
+            ]
+        ],
+        "responses": [{
+            "content": "当然了",
+            "nextXianzhe": ["0509"]
+        }, {
+            "content": "不想看"
+        }]
+    }, {
+        "id": "0509",
+        "details": [
+            [
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_084552.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_084552.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_171413.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180519_171413.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0510",
+        "details": [
+            [
+                "这个是今年国庆去广州珠江坐船拍的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_192531.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_192531.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_193957.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_193957.jpg'></a>",
+                "还有一张小蛮腰近距离的，要不要看下呀"
+            ]
+        ],
+        "responses": [{
+            "content": "当然了",
+            "nextXianzhe": ["0511"]
+        }, {
+            "content": "不想看"
+        }]
+    }, {
+        "id": "0511",
+        "details": [
+            [
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_193859.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_193859.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0512",
+        "details": [
+            [
+                "这是今年深圳洪湖公园第二十九届荷花展",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180616_154307.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180616_154307.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180616_160012.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180616_160012.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0513",
+        "details": [
+            [
+                "2018全球游戏潮流盛典",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180901_123048.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180901_123048.jpg'></a>",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180901_124821.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180901_124821.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0514",
+        "details": [
+            [
+                "建筑物也不少，你选一下吧"
+            ]
+        ],
+        "responses": [{
+            "content": "钟乳石",
+            "nextXianzhe": ["0515"]
+        }, {
+            "content": "滕王阁",
+            "nextXianzhe": ["0516"]
+        }, {
+            "content": "中山堂顶部",
+            "nextXianzhe": ["0517"]
+        }, {
+            "content": "珠江桥",
+            "nextXianzhe": ["0518"]
+        }, {
+            "content": "斜房子",
+            "nextXianzhe": ["0525"]
+        }]
+    }, {
+        "id": "0515",
+        "details": [
+            [
+                "这是在上海拍的，不记得哪里去啦...",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20170903_151918.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20170903_151918.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0516",
+        "details": [
+            [
+                "这是回学校去的一次滕王阁，在南昌读书，居然都宅宿舍过了，南昌都没去几个地方，遗憾",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171123_121922.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171123_121922.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0517",
+        "details": [
+            [
+                "这是五一去广州中山堂拍的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180430_130318.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180430_130318.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0518",
+        "details": [
+            [
+                "这是国庆在珠江坐船拍的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_190808.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20181002_190808.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0525",
+        "details": [
+            [
+                "这是去海上世界看到的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180422_145913.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180422_145913.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0519",
+        "details": [
+            [
+                "平时的几个还好的景色，你选一下吧"
+            ]
+        ],
+        "responses": [{
+            "content": "贝壳",
+            "nextXianzhe": ["0520"]
+        }, {
+            "content": "观澜",
+            "nextXianzhe": ["0521"]
+        }, {
+            "content": "日落",
+            "nextXianzhe": ["0522"]
+        }, {
+            "content": "晚霞",
+            "nextXianzhe": ["0523"]
+        }, {
+            "content": "水云天",
+            "nextXianzhe": ["0524"]
+        }]
+    }, {
+        "id": "0520",
+        "details": [
+            [
+                "这是去年去西充捡的贝壳",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171028_162135.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171028_162135.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0521",
+        "details": [
+            [
+                "这是又一次去观澜看到的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20171210_160200.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20171210_160200.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0522",
+        "details": [
+            [
+                "这是某一次出去玩看到的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180405_174643.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180405_174643.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0523",
+        "details": [
+            [
+                "这是去年过年前还在深圳拍的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180205_180106.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180205_180106.jpg'></a>"
+            ]
+        ]
+    }, {
+        "id": "0524",
+        "details": [
+            [
+                "这是今年公司旅游惠州拍的",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_134539.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_134539.jpg'></a>",
+                "还有一个海绵宝宝的冰雪乐园的，你要不要看下"
+            ]
+        ],
+        "responses": [{
+            "content": "当然了",
+            "nextXianzhe": ["0526"]
+        }, {
+            "content": "不想看"
+        }]
+    }, {
+        "id": "0526",
+        "details": [
+            [
+                "呐~",
+                "<a href='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_105936.jpg'><img src='https://res.wang64.cn/Image/201811/Camera/IMG_20180520_105936.jpg'></a>"
             ]
         ]
     }, {
@@ -225,7 +534,7 @@
     }, {
         "id": "9989",
         "details": [
-            ["嘿嘿，没关系", "你能够多停留一秒，我就很开心啦，<(￣︶￣)>"]
+            ["嘿嘿，没关系，你能够多停留一秒，我就很开心啦，<(￣︶￣)>"]
         ]
     }, {
         "id": "9999",
@@ -263,7 +572,7 @@
             "可以八卦一下你的感情生活吗？嘿嘿……",
             "你有男(女)朋友嘛？"
         ],
-        "nextXianzhe": ["9999"]
+        "nextXianzhe": ["0201"]
     }, {
         "id": "1003",
         "brief": "性格",
@@ -279,7 +588,7 @@
             "你要不要秀一下自己的摄影作品啊？",
             "发张你拍的照来看看？"
         ],
-        "nextXianzhe": ["9999"]
+        "nextXianzhe": ["0501"]
     }, {
         "id": "1006",
         "brief": "职业",
@@ -292,7 +601,6 @@
         "id": "1007",
         "brief": "真相",
         "details": [
-            "求真相",
             "我要看你的真相~~"
         ],
         "nextXianzhe": ["9999"]

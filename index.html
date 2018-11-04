@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=100%, initial-scale=1">
         <link rel="shortcut icon" href="https://wang64.cn/static/favicon.ico">
         <title>与随心聊天中</title>
+        <link rel="stylesheet" href="https://cdn.staticfile.org/viewerjs/1.3.0/viewer.min.css">
         <link href="css/main.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
@@ -28,6 +29,7 @@
                             :style="msg.width && msg.height && {width: msg.width - 26 + 'px', height: msg.height - 18 + 'px'}"
                             v-html="msg.content"></div>
                     </div>
+                    <img style="display: none;"/>
                 </div>
             </div>
             <div id="mobile-foot">
@@ -105,6 +107,7 @@
         <script src="lib/zepto.min.js"></script>
         <script src="lib/vue.js"></script>
         <script src="js/index-min.js"></script>
+        <script src="https://cdn.staticfile.org/viewerjs/1.3.0/viewer.min.js"></script>
 
         <script type="text/javascript">
             var _gaq = _gaq || [];
@@ -123,6 +126,15 @@
 			String(hours).length < 2 ? (hours = "0" + hours): hours;
 			String(minutes).length < 2 ? (minutes = "0" + minutes): minutes;
 			document.getElementById('time').innerHTML = hours + ':' + minutes;
+
+            // 图片预览
+            const viewer = new Viewer(document.getElementById('mobile-body-content'), {
+                url: 'data',
+                navbar: false
+            });
+            function updateViewer(){
+                viewer.update();
+            }
         </script>
     </body>
 </html>

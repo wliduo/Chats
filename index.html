@@ -130,7 +130,11 @@
             // 图片预览
             const viewer = new Viewer(document.getElementById('mobile-body-content'), {
                 url: 'data',
-                navbar: false
+                navbar: false,
+                movable: false,
+                transition: false,
+                zoomable: false,
+                tooltip: false
             });
             function updateViewer(){
                 viewer.update();

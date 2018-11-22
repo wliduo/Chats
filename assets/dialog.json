@@ -127,7 +127,9 @@
         "id": "0201",
         "details": [
             [
-                "emmm，母胎单，了解一下",
+                "主人太懒了，没有设置当前问题的回答...",
+                "不过机器人偷偷告诉你",
+                "他是母胎单，了解一下",
                 "<img onclick='updateViewer()' width='150' height='150' src='https://wang926454.gitee.io/reader/Image/201811/normal/04025.png'>"
             ]
         ]
@@ -460,11 +462,22 @@
             ["没办法", "女怕入错行，男怕嫁错郎", "额，好像说反了，hhh"]
         ]
     }, {
+        "id": "0701",
+        "details": [
+            [
+                "emmm，等我想下留言板地址",
+                "<a href='https://msg.wang64.cn' target='_blank'>msg.wang64.cn</a>",
+                "就是这个，o(*////▽////*)o"
+            ]
+        ]
+    }, {
         "id": "0801",
         "details": [
-            ["我的主页吗？额，我想一下",
-            "<a href='https://wang64.cn' target='_blank'>wang64.cn</a>",
-            "这个就是我的主页啦，o^-^o"]
+            [
+                "我的主页吗？额，我想一下",
+                "<a href='https://wang64.cn' target='_blank'>wang64.cn</a>",
+                "这个就是我的主页啦，o^-^o"
+            ]
         ]
     }, {
         "id": "0901",
@@ -611,11 +624,11 @@
         "nextXianzhe": ["0601"]
     }, {
         "id": "1007",
-        "brief": "真相",
+        "brief": "留言",
         "details": [
-            "我要看你的真相~~"
+            "我要留言~~~"
         ],
-        "nextXianzhe": ["9999"]
+        "nextXianzhe": ["0701"]
     }, {
         "id": "1008",
         "brief": "主页",
